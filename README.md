@@ -1,5 +1,5 @@
 <img src="https://media.licdn.com/dms/image/v2/D4E16AQFLDJghpCwz8g/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1666810264164?e=1794441600&v=beta&t=gKGt4--4oh3EkxVadqQPQD5dQ9qzTu-hTV75UFSzjRM">
-<h1 align="center">Hi 👋, I'm Biplob Hosen</h1>
+<h1 align="center">Hey 👋, I'm Biplob Hosen</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=biplob9123&label=Profile%20views&color=0e75b6&style=flat" alt="biplob9123" /> </p>
