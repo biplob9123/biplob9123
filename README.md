@@ -1,4 +1,4 @@
-<img url="https://media.licdn.com/dms/image/v2/D4E16AQFLDJghpCwz8g/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1666810264164?e=1794441600&v=beta&t=gKGt4--4oh3EkxVadqQPQD5dQ9qzTu-hTV75UFSzjRM">
+<img src="https://media.licdn.com/dms/image/v2/D4E16AQFLDJghpCwz8g/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1666810264164?e=1794441600&v=beta&t=gKGt4--4oh3EkxVadqQPQD5dQ9qzTu-hTV75UFSzjRM">
 <h1 align="center">Hi 👋, I'm Biplob Hosen</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
