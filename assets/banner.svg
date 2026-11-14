@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 380" width="1200" height="380" role="img" aria-label="Md. Biplob Hosen. Research Assistant and web developer. GIS, remote sensing, hydrology, HTML, CSS and JavaScript. Gazipur, Bangladesh.">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 380" width="1200" height="380" role="img" aria-label="Md. Biplob Hosen. Web developer and Python programmer. HTML, CSS, JavaScript, Python, Git and GitHub. Gazipur, Bangladesh.">
 <defs>
 <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#E6F7F3"/><stop offset=".55" stop-color="#F7FCFA"/><stop offset="1" stop-color="#F3EFFB"/></linearGradient>
 <linearGradient id="mapbg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#EAF7F4"/><stop offset="1" stop-color="#FFF4E2"/></linearGradient>
@@ -32,15 +32,15 @@
 <text x="72" y="128" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="60" font-weight="700" fill="#134E4A" letter-spacing="-0.5">Md. Biplob Hosen</text>
 <rect x="74" y="148" width="64" height="5" rx="2.5" fill="#F2B85B"/>
 <rect x="144" y="148" width="22" height="5" rx="2.5" fill="#B9AEE3"/>
-<text x="72" y="196" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="25" font-weight="600" fill="#0F8B8D">Research Assistant · Web Developer</text>
-<text x="72" y="232" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="19" fill="#56706E">GIS · Remote Sensing · Hydrology · HTML, CSS &amp; JavaScript</text>
+<text x="72" y="196" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="25" font-weight="600" fill="#0F8B8D">Web Developer · Python Programmer</text>
+<text x="72" y="232" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="19" fill="#56706E">HTML · CSS · JavaScript · Python · Git &amp; GitHub</text>
 <g font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="18" font-weight="600" fill="#134E4A">
 <rect x="72" y="254" width="262" height="44" rx="22" fill="#FFFFFF" stroke="#A7E3DD" stroke-width="1.5"/>
 <g transform="translate(88,264) scale(1.000)" fill="none" stroke="#0F8B8D" stroke-width="2.00" stroke-linecap="round" stroke-linejoin="round"><path d="M12 21s-6.5-6.2-6.5-11a6.5 6.5 0 0 1 13 0c0 4.8-6.5 11-6.5 11z"/><circle cx="12" cy="10" r="2.4"/></g>
 <text x="120" y="282.5">Gazipur, Bangladesh</text>
 <rect x="346" y="254" width="300" height="44" rx="22" fill="#FFFFFF" stroke="#D9D2EF" stroke-width="1.5"/>
 <g transform="translate(362,264) scale(1.000)" fill="none" stroke="#7A6BB5" stroke-width="2.00" stroke-linecap="round" stroke-linejoin="round"><path d="M8 7l-5 5 5 5M16 7l5 5-5 5M14 4l-4 16"/></g>
-<text x="394" y="282.5">Maps, models &amp; websites</text>
+<text x="394" y="282.5">Websites &amp; Python tools</text>
 </g>
 
 <!-- browser window: a map on the left, code on the right -->
